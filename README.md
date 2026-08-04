@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0066-plus-one](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
 ## String
@@ -17,4 +18,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0066-plus-one](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 <!---LeetCode Topics End-->
