@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+| [0053-maximum-subarray](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -38,5 +39,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0097-interleaving-string](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
