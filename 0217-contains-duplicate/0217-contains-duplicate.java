@@ -14,19 +14,35 @@
 //         return false;
 //     }
 // }}
-import java.util.*;
+//  m2 - using hashset O(n)
+// import java.util.*;
 
-class Solution {
-    public boolean containsDuplicate(int[] nums) {
+// class Solution {
+//     public boolean containsDuplicate(int[] nums) {
+//         Set<Integer> set = new HashSet<>();
+
+//         for (int num : nums) {
+//             if (set.contains(num)) {
+//                 return true;
+//             }
+//             set.add(num);
+//         }
+
+//         return false;
+//     }
+// }
+// // M3 without uisng contains in hashset
+import java.util.*;
+class Solution{
+    public boolean containsDuplicate(int [] nums){
+    
         Set<Integer> set = new HashSet<>();
 
         for (int num : nums) {
-            if (set.contains(num)) {
-                return true;
-            }
             set.add(num);
         }
 
-        return false;
+        return set.size() != nums.length;
     }
 }
+    
