@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0217-contains-duplicate](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -50,4 +51,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
