@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0118-pascals-triangle](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0217-contains-duplicate](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0097-interleaving-string](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
+| [0118-pascals-triangle](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
