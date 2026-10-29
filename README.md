@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [1470-shuffle-the-array](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +101,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/yashica52327-ops/leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 <!---LeetCode Topics End-->
